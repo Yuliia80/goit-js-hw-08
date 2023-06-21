@@ -36,3 +36,4 @@ function onFormSubmit(e) {
   e.currentTarget.reset();
   dataForm = {};
 }
+// console.log
